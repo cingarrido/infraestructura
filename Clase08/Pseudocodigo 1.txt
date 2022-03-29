@@ -1,0 +1,30 @@
+PSEUDOCODIGO EJERCICIO 1
+
+Crear el archivo y agregar las 20 personas
+Leer el archivo desde el script
+
+contador = 0
+for -> Cada persona
+if persona = "Juan"
+then log(Encontre a Juan)
+else contador ++
+
+log (contador)
+
+PSEUDOCODIGO EJERCICIO 2
+
+Crear el archivo y agregar las 20 personas
+Leer el archivo desde el script
+
+for -> Iterar por cada persona
+Request a la url de Genderize, parametro es la persona actual
+Sacar la propiedad genero
+Guardar el valor de genero en variable
+
+Request a la url de Nacionalidad, parametro es la persona actual
+Sacar la propiedad country
+Guardar el valor en una variable
+
+Termina el for
+
+Imprimir las variables de country y genero
